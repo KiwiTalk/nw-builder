@@ -65,7 +65,7 @@
     "recursive-readdir-sync": "^1.0.6",
     "request": "^2.88.0",
     "rimraf": "^2.5.2",
-    "semver": "^5.5.0",
+    "semver": "^7.3.4",
     "simple-glob": "~0.2.0",
     "tar-fs": "^1.13.0",
     "temp": "github:adam-lynch/node-temp#remove_tmpdir_dep",
