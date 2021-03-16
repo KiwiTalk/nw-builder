@@ -50,7 +50,7 @@
     "bson": "^4.0.4",
     "chalk": "^2.3.2",
     "crypto-js": "^4.0.0",
-    "deprecate": "~1.0.0",
+    "deprecate": "~1.1.1",
     "extract-zip": "^1.6.5",
     "graceful-fs-extra": "^2.0.0",
     "graceful-ncp": "^3.0.0",
