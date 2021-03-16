@@ -61,7 +61,7 @@
     "optimist": "^0.6.1",
     "plist": "^3.0.1",
     "progress": "~2.0.0",
-    "rcedit": "^1.0.0",
+    "rcedit": "^3.0.0",
     "recursive-readdir-sync": "^1.0.6",
     "request": "^2.88.0",
     "rimraf": "^2.5.2",
